@@ -1,53 +1,6 @@
 <h1 align="center">Jéssica Gizela 👩🏽‍💻🎧</h1>
-<p align="center">Estudante de Ciência de Dados • Produtora Musical • Criadora de Conteúdo</p>
+<p align="center">Estudante de Análise e Desenvolvimento de sistemas </p>
 
----
-
-🎯 **Resumo**
-Sou estudante de Ciências de Dados e Análise de Comportamento, com experiência em marketing digital, produção musical e análise de mercado. Desde o início da graduação (2024), venho me especializando em ferramentas como SQL, Python e BI para transformar dados em decisões estratégicas.
-
-Como fundadora da Remix Digital Music, gerenciei lançamentos, tráfego pago e análise de comportamento de audiência, unindo criatividade à visão analítica. Atualmente, estou em busca de oportunidades para aplicar esses conhecimentos em ambientes desafiadores e orientados por dados.
-
----
-
-🧠 **Principais Competências**
-
-- 🧩 AngularJS, JavaScript
-- ⚙️ SQL, Python (em formação)
-- 📊 Microsoft Copilot, Power BI
-- 🧠 Análise de Comportamento e Marketing
-- 🎵 Produção Musical e Estratégias de Lançamento
-
----
-
-📚 **Formação Acadêmica**
-
-- 🎓 *Tecnólogo em Ciências de Dados e Análise de Comportamento*  
-  UniCesumar (2024 - 2027)
-
----
-
-💼 **Experiências**
-
-- **Freelancer em Produção Musical**  
-  *(jan/2023 – atual)*  
-  Produção, mixagem e desenvolvimento criativo para artistas independentes.
-
-- **Fundadora - Remix Digital Music**  
-  *(abr/2020 – set/2022)*  
-  Estratégias de lançamento musical, tráfego pago e análise de audiência.
-
-- **Especialista em Vendas e Marketing (Autônomo)**  
-  *(mar/2018 – jun/2022)*  
-  Criação de campanhas, copywriting e suporte a pequenas marcas.
-
----
-
-📜 **Certificações**
-
-- 🧠 IA para Todos
-- 💻 Decola Tech 2025 - Avanade
-- 🇬🇧 Certificado EF SET - Inglês B1 (47/100)
 
 ---
 🚀 **Projetos em Destaque**
