@@ -45,14 +45,6 @@ O projeto foi desenvolvido com foco em **segurança, privacidade e experiência 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
 </p>
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jessgi&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessgi&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
----
 
 ## 📫 Contato
 
