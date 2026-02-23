@@ -1,4 +1,4 @@
-<h1 align="center">Jéssica Gizela 👩🏽‍💻</h1>
+<h1 align="center">Jéssica Gizela </h1>
 <p align="center">
 Desenvolvedora Full Stack Jr • Análise e Desenvolvimento de Sistemas
 </p>
