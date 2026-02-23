@@ -1,22 +1,40 @@
-<h1 align="center">Jéssica Gizela 👩🏽‍💻🎧</h1>
-<p align="center">Estudante de Análise e Desenvolvimento de sistemas </p>
-
+<h1 align="center">Jéssica Gizela 👩🏽‍💻</h1>
+<p align="center">
+Desenvolvedora Full Stack Jr • Análise e Desenvolvimento de Sistemas
+</p>
 
 ---
-🚀 **Projetos em Destaque**
 
-🎧 [Electronic Music Quiz](https://eletronic-music-quizz2.vercel.app/)  
-Um quiz interativo sobre música eletrônica, ideal para fãs testarem seus conhecimentos de um jeito leve e divertido.  
-Tecnologias: Angular, TypeScript, Vercel
-📌 [Repositório no GitHub](https://github.com/Jessgi/eletronic-music-quizz2)
+## 💜 Projeto em Destaque
 
-📝 [Vibecast Blog](https://vibecast-blog.vercel.app/)  
-Blog fictício de música eletrônica com artigos e posts, criado como experimento visual e técnico.  
-Tecnologias: Angular, TypeScript, Vercel 
-📌 [Repositório no GitHub](https://github.com/Jessgi/vibecast-angular-blog)
+### 🌸 Força Marias
 
+Plataforma digital de impacto social criada para **informar, conscientizar e acolher mulheres em situação de vulnerabilidade**.
 
-📈 **Estatísticas do GitHub**
+O projeto foi desenvolvido com foco em **segurança, privacidade e experiência do usuário**, oferecendo um ambiente acessível, educativo e sem julgamentos.
+
+**Principais funcionalidades:**
+- Conteúdos informativos sobre diferentes formas de violência
+- Listagem de centros de apoio nas principais capitais do Brasil
+- Quiz orientativo e reflexivo (sem coleta ou armazenamento de respostas)
+- Navegação sem necessidade de cadastro
+
+**Princípios do projeto:**
+- Não armazena dados sensíveis
+- Não exige login
+- Prioriza anonimato e proteção da usuária
+- Tecnologia como ferramenta de cuidado e informação
+
+🔗 **Site:** https://forcamarias.com.br  
+
+**Tecnologias utilizadas:**
+- Front-end: React, TypeScript, Tailwind CSS  
+- Back-end: Node.js, APIs REST  
+- Versionamento: Git & GitHub  
+
+---
+
+## 📈 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jessgi&show_icons=true&theme=radical&count_private=true"/>
@@ -25,6 +43,6 @@ Tecnologias: Angular, TypeScript, Vercel
 
 ---
 
-📫 **Contato**
+## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jéssica-gizela-137333349)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-gizela-137333349)
